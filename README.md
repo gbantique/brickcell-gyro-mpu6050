@@ -22,3 +22,10 @@ To edit this repository in MakeCode.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+## Credits to the original author for sharing their valuable work for us.
+1. [https://github.com/joy-it/SEN-MPU6050/](https://github.com/joy-it/SEN-MPU6050/)
+Changelog:
+    - Change namespace from SENMPU6050 to brickcell
+    - Added modules as submodule of "gyro mpu6050"
+    - etc.
